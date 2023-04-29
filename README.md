@@ -70,7 +70,7 @@ class ViewController: UIViewController {
 
 ## Author
 
-outofcoding, outofcoding@gmail.com
+Donghyuk Lee - mrgamza@gmail.com
 
 ## License
 
